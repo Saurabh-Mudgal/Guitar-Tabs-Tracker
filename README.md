@@ -1,4 +1,4 @@
-# Tab Tracker
+# Guitar Tab Tracker
 ![Version](https://img.shields.io/badge/version-0.1-blue.svg?cacheSeconds=2592000)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![runs with expo](https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://expo.io/)
@@ -15,14 +15,6 @@ You need to have Node Js installed: https://nodejs.org/en/
 You must at least have **NODE version 8.2.1**
 
 Don't know how to install different version of node?  Try this: https://github.com/tj/n
-
-I suggest you install the following that I use in the video:
-
-VSCode: https://code.visualstudio.com/
-
-ITerm2: https://www.iterm2.com/ (Mac Only)
-
-Git: https://git-scm.com/
 
 ### Client - Terminal A
 ```
@@ -50,6 +42,6 @@ Like what you see? I am available for freelance and full-time work. Let's chat!
 * Alternate Email: smsaurabhmudgal@gmail.com
 * Location: Singapore
 <br>
-Credit: [Cody Seibert](https://www.youtube.com/channel/UCsrVDPJBYeXItETFHG0qzyw)
+Credit: [ Cody Seibert ](https://www.youtube.com/channel/UCsrVDPJBYeXItETFHG0qzyw)
 <br>
 Give a ⭐️ if this project helped you! :)
