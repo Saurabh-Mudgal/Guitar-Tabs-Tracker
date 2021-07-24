@@ -42,6 +42,6 @@ Like what you see? I am available for freelance and full-time work. Let's chat!
 * Alternate Email: smsaurabhmudgal@gmail.com
 * Location: Singapore
 <br>
-[ Cody Seibert ](https://www.youtube.com/channel/UCsrVDPJBYeXItETFHG0qzyw)
+Credit: Cody Seibert
 <br>
 Give a ⭐️ if this project helped you! :)
